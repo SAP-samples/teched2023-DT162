@@ -32,7 +32,7 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-> **NOTE:** For the SAP TechEd 2023 Hands-on Session we have already prepared the landscape with **SAP Build Work Zone, standard edition***. Please start directly with [Exercise 1](../ex1) as an in-person participant.
+> **NOTE:** For the SAP TechEd 2023 Hands-on Session we have already prepared the landscape with **SAP Build Work Zone, standard edition**. Please start directly with [Exercise 1](../ex1) as an in-person participant.
 
 - [Exercise 0 - Access SAP Build Work Zone, standard edition](exercises/ex0/) (skip on TechEd 2023 Hands-on)
 - [Exercise 1 - Create a Content Channel to import SAP S/4HANA Content](exercises/ex1/)
