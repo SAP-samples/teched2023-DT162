@@ -143,7 +143,7 @@
 
 Awesome! You completed Exercise 1. 🥳
 
-You can now navigate to the [Overview](../).  
+You can now navigate to the [Overview](../../#exercises).  
 If your instructor already told you to continue with [Exercise 2](../ex2/), you navigate there using [this link](../ex2/).
 
 ## Troubleshooting

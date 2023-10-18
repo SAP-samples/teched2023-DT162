@@ -21,7 +21,7 @@ Discover how to set up and configure SAP Mobile Start with SAP S/4HANA and how t
 
 The requirements to follow the exercises in this repository are:
 
-- SAP BTP Subaccount with SAP Build Work Zone, standard edition* entitlement
+- SAP BTP Subaccount with SAP Build Work Zone, standard edition entitlement
 - Admin access for this subaccount
 - SAP S/4HANA system connected to the SAP BTP Subaccount
 - Content Exposure from SAP S/4HANA to SAP Build Work Zone, standard edition

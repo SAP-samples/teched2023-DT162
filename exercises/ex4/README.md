@@ -100,7 +100,7 @@ With the same procedure as in previous tutorials, you need to assign your News f
     <img src="./images/tut5-7.png" width="70%" />
     </p>
 
-2. To make use of the News feed, you can either click directly on an article to open it or press the little (>) icon in the top right of the tile to show the whole list of articles. The News feed can also be used as a Widget. You will learn how to use a Widget in the next tutorial.
+2. To make use of the News feed, you can either click directly on an article to open it or press the little (>) icon in the top right of the tile to show the whole list of articles. The News feed can also be used as a Widget. You will learn how to use a Widget in the next step.
 
 ## Step 4: Make use of Widgets
 
@@ -129,7 +129,7 @@ On iOS one of the available sources is selected by default – you can edit it v
 
 Wow, looks amazing! You have completed the last exercise. 🥳
 
-You can now navigate to the [Overview](../). 
+You can now navigate to the [Overview](../../#exercises). 
 
 ## Troubleshooting
 

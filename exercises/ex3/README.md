@@ -109,5 +109,5 @@ The same way as the URL tile in the previous tutorial, you need to assign your N
 I have the feeling, you are becoming a SAP Mobile Start professional!
 You successfully finished Exercise 3. 🥳
 
-You can now navigate to the [Overview](../).  
+You can now navigate to the [Overview](../../#exercises).  
 If your instructor already told you to continue with [Exercise 4](../ex4/), you navigate there using [this link](../ex4/).

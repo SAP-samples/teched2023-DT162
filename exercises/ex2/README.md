@@ -137,7 +137,7 @@ Use the below steps to assign your app to a **Group**:
 
 2. Perform a refresh by pulling down the scoll section
 
-3. You should be able to see the Group with the create app
+3. You should be able to see the Group with the created app
 
 > **NOTE:** You might need to scroll on the Application Tab to find your Group besides the imported ones.
 
@@ -149,7 +149,7 @@ Use the below steps to assign your app to a **Group**:
 
 Nice Job! You completed Exercise 2. 🥳
 
-You can now navigate to the [Overview](../).  
+You can now navigate to the [Overview](../../#exercises).  
 If your instructor already told you to continue with [Exercise 3](../ex3/), you navigate there using [this link](../ex3/).
 
 ## Summary on Item relationship

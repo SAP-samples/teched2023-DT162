@@ -7,11 +7,11 @@
 - SAP BTP Subaccount with *SAP Build Work Zone, standard edition* entitlement
 - Admin access for this Subaccount
 
-## Step 1: Create an "SAP Build Work Zone, standard edition"* instance
+## Step 1: Create an "SAP Build Work Zone, standard edition" instance
 
 1. Log into your SAP BTP Cockpit and select **Services > Service Marketplace**.
 
-2. Search for “**SAP Build Work Zone, standard edition**”* and select the entry.
+2. Search for “**SAP Build Work Zone, standard edition**” and select the entry.
 
 3. In the **Application Plans** section choose the 3 dots for the standard plan and click **Create**.
 
@@ -33,7 +33,7 @@
 
 ## Step 2: Add the Launchpad_Admin Role Collection to your User
 
-Adding the **Launchpad_Admin** Role Collection to a user allows them to access the admin application (also known as Site Manager). For users consuming the Site and it’s content later on the **Launchpad_External_User** role collcetion needs to be assigned.
+Adding the **Launchpad_Admin** Role Collection to a user allows them to access the admin application (also known as Site Manager). For users consuming the Site and it’s content later on the **Launchpad_External_User** role collection needs to be assigned.
 
 1. Navigate to **Security > Users** and find your user in the list. Click on it to open the user details.
 
@@ -86,4 +86,4 @@ Within the Site Manager there are three main pages available:
 
 You now have everything prepared to start with the first exercise! 🥳
 
-You can now navigate to the [Overview](../) or directly move on to [Exercise 1](../ex1/), you navigate there using [this link](../ex1/).
+You can now navigate to the [Overview](../../#exercises) or directly move on to [Exercise 1](../ex1/), you navigate there using [this link](../ex1/).
